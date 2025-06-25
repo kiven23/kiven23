@@ -9,7 +9,7 @@
 ## 🛠️ About Me
 
 Hello, I’m Steven — also known as `stevefox-linux`.  
-I'm a full-stack system developer with 4+ years of hands-on experience in building, deploying, and automating business-critical applications.
+I'm a full-stack system developer with 5+ years of hands-on experience in building, deploying, and automating business-critical applications.
 
 From warehouse barcode integrations to report generation systems powered by **FastAPI**, **JasperStarter**, **Linux automation**, and **DevOps pipelines**, I design solutions that work hard in the background — so people don’t have to.
 
