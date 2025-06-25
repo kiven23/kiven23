@@ -1,32 +1,89 @@
-<h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A passionate Web Developer from Philippines</h3>
+# 👨‍💻 Steven Calimlim — stevefox-linux
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiven23&label=Profile%20views&color=0e75b6&style=flat" alt="kiven23" /> </p>
+> 🚀 Full-stack Developer • DevOps Enthusiast • System Architect  
+> 📍 Pangasinan, PH | 💼 Addessa Corporation  
+> 🧠 4+ Years Experience • Linux • Web Infra • Crystal Reports Automation
 
-- 🌱 I’m currently learning **Full Stack Development**
+---
 
-- 📫 How to reach me **calimlim.steven@gmail.com**
+## 🛠️ About Me
 
-- 📄 THE QUIETER YOU BECOME THE MORE YOU ARE ABLE TO HEAR
+Hello, I’m Steven — also known as `stevefox-linux`.  
+I'm a full-stack system developer with 4+ years of hands-on experience in building, deploying, and automating business-critical applications.
 
-- ⚡ Fun fact **I am fun guy**
+From warehouse barcode integrations to report generation systems powered by **FastAPI**, **JasperStarter**, **Linux automation**, and **DevOps pipelines**, I design solutions that work hard in the background — so people don’t have to.
 
- #FitnessLover #LoverBoy #StayFit #Shapeyou
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
 
-<a href="https://www.instagram.com/stevefox_linux/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gelo.ge1o" height="30" width="40" /></a>
-<a href="https://www.facebook.com/stevefoxlinux/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="stevefoxlinux" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCk6PLx2wK7Ea1dj6F4s3JEw" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2875/2875384.png" alt="stevefox channel" height="30" width="40" /></a>
-</p>
+## ⚡ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="vuejs" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo-v2/svg/logo-vertical.svg" alt="quasar" width="40" height="40"/> </a> </p>
+| Area             | Tools / Tech                                           |
+|------------------|--------------------------------------------------------|
+| **Frontend**      | HTML, CSS, JS, Vue.js                                  |
+| **Backend**       | PHP (Laravel), Python (FastAPI), Node.js              |
+| **Database**      | MySQL, PostgreSQL, SQLite                              |
+| **Reporting**     | JasperStarter, Crystal Reports, Excel via Pandas      |
+| **DevOps / Infra**| Linux (Debian/Ubuntu), Nginx, Uvicorn, Tailscale, SSL |
+| **CI/CD & Scripting**| Shell Scripts, Python Automation, systemctl, nohup |
+| **Others**        | JWT Auth, File Servers, CDN-style Download Links      |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiven23&show_icons=true&locale=en&layout=compact" alt="kiven23" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiven23&show_icons=true&locale=en" alt="kiven23" /></p>
+## 🧩 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gelo01&" alt="gelo01" /></p>
+### 📦 1. **Crystal Reports PDF Generator API**
+- 🔗 Endpoint-based report generation with `FastAPI`
+- 🗃 Accepts JSON, processes via `JasperStarter`, outputs PDF
+- 🧾 Supports multiple templates via `?type=` query param
+- 🔐 Token-based JWT authentication
+- 📥 CDN-style download via custom subdomain:  
+  `https://cdn-sfx-linux-file-distribution-network-zone9-node8.addessa.com/download?q=report.pdf&session=...`
 
+### 🏗 2. **GRPO + Serial Number Integration**
+- 🧩 SAP GRPO automation using Python + `win32com`
+- 📦 Syncs warehouse deliveries and serial numbers in real-time
+- 🖨 Auto-generates and prints barcodes on GRPO creation
+
+### 🧾 3. **Government Excel Data Export Tool**
+- 📤 Upload JSON → Get formatted Excel file (via `pandas` + `openpyxl`)
+- 👓 Custom Calibri font size 6, dynamic column auto-sizing
+- 📅 Output named `Land-YYYY-MM-DD.xlsx` for traceability
+
+### 📡 4. **Linux CDN + Download Proxy Server**
+- 🌐 Secure file delivery with session token
+- 🔐 Custom JSON 404 error for pro-level user feedback
+- 🖥️ Subdomain like: `cdn.sfx-linux-edge01.addessa.com`
+
+---
+
+## 🛡️ Dev Philosophy
+
+> *“Build clean, deploy clean, and automate repeatables.”*
+
+I believe in systems that quietly do their job.  
+I build with discipline, test before deploy, and secure every layer.
+
+---
+
+## 📈 Currently Working On
+- 💰 Prop firm trading automation bot (MQL4 + Python bridge)
+- 🪙 Web3 token project: `Aspin (ASKAL)` token + DEX deployment
+- 🛰️ Self-hosted systems for internal tools at Addessa Corp
+- 🎥 Vlog project: *“The Masked Trader”* on Facebook (with FPV drone + trading journey)
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Website: [aspin.cc](https://aspin.cc)
+- 🎥 Facebook Page: [Steven Official](https://facebook.com/StevenOfficial)
+- 🐙 GitHub: [github.com/stevefox-linux](https://github.com/stevefox-linux) ← *upload mo ito dito boss*
+
+---
+
+## 🧠 Sample Quote for Profile
+
+> “You don’t need a team to be a powerhouse —  
+> Just discipline, direction, and deep dev stacks.”
+
+---
