@@ -2,7 +2,7 @@
 
 > 🚀 Full-stack Developer • DevOps Enthusiast • System Architect  
 > 📍 Pangasinan, PH | 💼 Addessa Corporation  
-> 🧠 4+ Years Experience • Linux • Web Infra • Crystal Reports Automation
+> 🧠 5+ Years Experience • Linux • Web Infra • Crystal Reports Automation
 
 ---
 
