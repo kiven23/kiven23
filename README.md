@@ -75,14 +75,12 @@ I build with discipline, test before deploy, and secure every layer.
 
 ## 🤝 Let's Connect
 
-- 🌐 Website: [aspin.cc](https://aspin.cc)
+- 🌐 Website: down-> [aspin.cc](https://aspin.cc)
+- 🌐 Perfume Business: [www.ghostscents.org](https://www.ghostscents.org)
 - 🎥 Facebook Page: [Steven Official](https://facebook.com/StevenOfficial)
-- 🐙 GitHub: [github.com/stevefox-linux](https://github.com/stevefox-linux) ← *upload mo ito dito boss*
+- 🐙 GitHub: [github.com/kiven23](https://github.com/kiven23)
 
 ---
-
-## 🧠 Sample Quote for Profile
-
 > “You don’t need a team to be a powerhouse —  
 > Just discipline, direction, and deep dev stacks.”
 
