@@ -3,7 +3,7 @@
 **Senior Full Stack Developer | AI Integration Engineer | DevOps Engineer | System Architect**
 
 📍 Philippines
-💼 5+ Years of Professional Experience
+💼 7+ Years of Professional Experience
 
 ---
 
