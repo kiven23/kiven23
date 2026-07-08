@@ -1,87 +1,147 @@
-# 👨‍💻 Steven Calimlim — stevefox-linux
+# 👨‍💻 Steven Calimlim (stevefox-linux)
 
-> 🚀 Full-stack Developer • DevOps Enthusiast • System Architect  
-> 📍 Pangasinan, PH | 💼 Addessa Corporation  
-> 🧠 5+ Years Experience • Linux • Web Infra • Crystal Reports Automation
+**Senior Full Stack Developer | AI Integration Engineer | DevOps Engineer | System Architect**
 
----
-
-## 🛠️ About Me
-
-Hello, I’m Steven — also known as `stevefox-linux`.  
-I'm a full-stack system developer with 5+ years of hands-on experience in building, deploying, and automating business-critical applications.
-
-From warehouse barcode integrations to report generation systems powered by **FastAPI**, **JasperStarter**, **Linux automation**, and **DevOps pipelines**, I design solutions that work hard in the background — so people don’t have to.
+📍 Philippines
+💼 5+ Years of Professional Experience
 
 ---
 
-## ⚡ Tech Stack
+## Professional Summary
 
-| Area             | Tools / Tech                                           |
-|------------------|--------------------------------------------------------|
-| **Frontend**      | HTML, CSS, JS, Vue.js                                  |
-| **Backend**       | PHP (Laravel), Python (FastAPI), Node.js              |
-| **Database**      | MySQL, PostgreSQL, SQLite                              |
-| **Reporting**     | JasperStarter, Crystal Reports, Excel via Pandas      |
-| **DevOps / Infra**| Linux (Debian/Ubuntu), Nginx, Uvicorn, Tailscale, SSL |
-| **CI/CD & Scripting**| Shell Scripts, Python Automation, systemctl, nohup |
-| **Others**        | JWT Auth, File Servers, CDN-style Download Links      |
+Results-driven Full Stack Developer with over five years of experience designing and developing enterprise applications, backend services, AI-powered solutions, and DevOps infrastructure. Experienced in Laravel, Python (FastAPI), Node.js, Linux administration, SAP Business One integration, REST APIs, automation, and cloud-native deployments.
+
+Specialized in building scalable business systems, warehouse automation platforms, AI integrations using OpenRouter and local LLMs, reporting services, and enterprise middleware that improve operational efficiency through automation.
 
 ---
 
-## 🧩 Featured Projects
+## Technical Skills
 
-### 📦 1. **Crystal Reports PDF Generator API**
-- 🔗 Endpoint-based report generation with `FastAPI`
-- 🗃 Accepts JSON, processes via `JasperStarter`, outputs PDF
-- 🧾 Supports multiple templates via `?type=` query param
-- 🔐 Token-based JWT authentication
-- 📥 CDN-style download via custom subdomain:  
-  `https://cdn-sfx-linux-file-distribution-network-zone9-node8.addessa.com/download?q=report.pdf&session=...`
+### Programming Languages
 
-### 🏗 2. **GRPO + Serial Number Integration**
-- 🧩 SAP GRPO automation using Python + `win32com`
-- 📦 Syncs warehouse deliveries and serial numbers in real-time
-- 🖨 Auto-generates and prints barcodes on GRPO creation
+* PHP
+* Python
+* JavaScript
+* TypeScript
+* SQL
+* Bash
 
-### 🧾 3. **Government Excel Data Export Tool**
-- 📤 Upload JSON → Get formatted Excel file (via `pandas` + `openpyxl`)
-- 👓 Custom Calibri font size 6, dynamic column auto-sizing
-- 📅 Output named `Land-YYYY-MM-DD.xlsx` for traceability
+### Frontend
 
-### 📡 4. **Linux CDN + Download Proxy Server**
-- 🌐 Secure file delivery with session token
-- 🔐 Custom JSON 404 error for pro-level user feedback
-- 🖥️ Subdomain like: `cdn.sfx-linux-edge01.addessa.com`
+* Vue.js
+* React.js
+* Next.js
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+
+### Backend
+
+* Laravel
+* FastAPI
+* Node.js
+* REST API Development
+* JWT Authentication
+
+### Artificial Intelligence
+
+* OpenRouter Integration
+* OpenAI-Compatible APIs
+* Prompt Engineering
+* Context Engineering
+* Local LLM Deployment (Ollama, LM Studio)
+* AI Workflow Automation
+* JSON Structured Outputs
+* Retrieval-Augmented Generation (RAG)
+
+### SAP & Enterprise Integration
+
+* SAP Business One DI API
+* COM Automation
+* Warehouse Automation
+* GRPO Processing
+* Barcode Generation
+* Serial Number Synchronization
+* ERP Integration
+
+### Reporting & Automation
+
+* JasperStarter
+* Crystal Reports
+* Microsoft Excel Automation
+* Pandas
+* OpenPyXL
+* PDF Generation
+* JSON Processing
+
+### Database
+
+* SQL Server
+* MySQL
+* PostgreSQL
+* SQLite
+* Redis
+
+### DevOps & Infrastructure
+
+* Linux (Debian / Ubuntu)
+* Docker
+* Docker Compose
+* Nginx
+* Apache
+* Uvicorn
+* Hyper-V
+* Tailscale
+* SSL/TLS Configuration
+* Reverse Proxy
+* Git
+* GitHub
+* Shell Scripting
+* Process Management
+* Systemd
+* Cron Jobs
+* Environment Configuration
 
 ---
 
-## 🛡️ Dev Philosophy
+## Featured Projects
 
-> *“Build clean, deploy clean, and automate repeatables.”*
+### AI Integration Platform
 
-I believe in systems that quietly do their job.  
-I build with discipline, test before deploy, and secure every layer.
+* Integrated OpenRouter and OpenAI-compatible APIs into enterprise applications.
+* Built AI context management and prompt engineering workflows.
+* Developed AI middleware for business automation.
+* Deployed local LLM environments for private AI workloads.
+
+### Enterprise Reporting API
+
+* Developed FastAPI services for automated PDF report generation.
+* Integrated JasperStarter and Crystal Reports.
+* Implemented JWT authentication and secure download services.
+* Built JSON-driven reporting workflows.
+
+### SAP Business One Warehouse Automation
+
+* Automated GRPO creation using SAP Business One DI API.
+* Implemented serial number synchronization.
+* Generated warehouse barcodes automatically.
+* Reduced manual warehouse processing through automation.
+
+### Excel Data Processing Platform
+
+* Automated Excel report generation using Pandas and OpenPyXL.
+* Implemented dynamic formatting and export pipelines.
+* Generated business-ready spreadsheets from JSON data.
+
+### Enterprise API & Middleware
+
+* Designed scalable REST APIs.
+* Developed middleware for third-party integrations.
+* Built secure authentication and business workflow automation.
 
 ---
 
-## 📈 Currently Working On
-- 💰 Prop firm trading automation bot (MQL4 + Python bridge)
-- 🪙 Web3 token project: `Aspin (ASKAL)` token + DEX deployment
-- 🛰️ Self-hosted systems for internal tools at Addessa Corp
-- 🎥 Vlog project: *“The Masked Trader”* on Facebook (with FPV drone + trading journey)
+## Development Philosophy
 
----
-
-## 🤝 Let's Connect
-
-- 🌐 Website: down-> [aspin.cc](https://aspin.cc)
-- 🌐 Perfume Business: [www.ghostscents.org](https://www.ghostscents.org)
-- 🎥 Facebook Page: [Steven Official FB page devlinsys](https://www.facebook.com/linuxtechpro/)
-- 🐙 GitHub: [github.com/kiven23](https://github.com/kiven23)
-
----
-> “You don’t need a team to be a powerhouse —  
-> Just discipline, direction, and deep dev stacks.”
-
----
+Design scalable systems. Automate repetitive work. Build secure and maintainable software. Continuously improve architecture, performance, and developer productivity through automation and modern engineering practices.
